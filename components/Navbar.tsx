@@ -29,7 +29,7 @@ const Navbar = () => {
 
             <div>
                 <Link href={`/booking`}>
-                    <button className='bg-white text-black rounded-lg text-center h-auto min-h-10 w-auto min-w-24 cursor-pointer'>Book Now</button>
+                    <button className='bg-black text-white dark:bg-white dark:text-black rounded-lg text-center h-auto min-h-10 w-auto min-w-24 cursor-pointer'>Book Now</button>
                 </Link>
             </div>
         </div>

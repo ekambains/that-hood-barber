@@ -7,48 +7,47 @@ export function Hero() {
 }
 export const products = [
   {
-    title: "Moonbeam",
-    link: "https://gomoonbeam.com",
+    title: "Hair Tattoo",
+    link: "/booking",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/moonbeam.png",
+      "/hairtattoo1.png",
   },
   {
-    title: "Cursor",
-    link: "https://cursor.so",
+    title: "Haircut",
+    link: "/booking",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/cursor.png",
+      "/haircut1.png",
   },
   {
-    title: "Rogue",
-    link: "https://userogue.com",
+    title: "Hair Tattoo",
+    link: "/booking",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/rogue.png",
-  },
-
-  {
-    title: "Editorially",
-    link: "https://editorially.org",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/editorially.png",
-  },
-  {
-    title: "Editrix AI",
-    link: "https://editrix.ai",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/editrix.png",
-  },
-  {
-    title: "Pixel Perfect",
-    link: "https://app.pixelperfect.quest",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/pixelperfect.png",
+      "/hairtattoo3.png",
   },
 
   {
-    title: "Algochurn",
-    link: "https://algochurn.com",
+    title: "Hair Tattoo",
+    link: "/booking",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/algochurn.png",
+      "/hairtattoo2.png",
+  },
+  {
+    title: "Haircut",
+    link: "/booking",
+    thumbnail:
+      "/haircut3.png",
+  },
+  {
+    title: "Haircut",
+    link: "/booking",
+    thumbnail:
+      "/haircut2.png",
+  },
+  {
+    title: "Hair Tattoo",
+    link: "/booking",
+    thumbnail:
+      "/hairtattoo4.png",
   },
   {
     title: "Aceternity UI",
