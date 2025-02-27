@@ -8,94 +8,93 @@ export function Hero() {
 export const products = [
   {
     title: "Hair Tattoo",
-    link: "/booking",
+    link: "/hairtattoo1.png",
     thumbnail:
       "/hairtattoo1.png",
   },
   {
     title: "Haircut",
-    link: "/booking",
+    link: "/haircut1.png",
     thumbnail:
       "/haircut1.png",
   },
   {
     title: "Hair Tattoo",
-    link: "/booking",
+    link: "/hairtattoo3.png",
     thumbnail:
       "/hairtattoo3.png",
   },
 
   {
     title: "Hair Tattoo",
-    link: "/booking",
+    link: "/hairtattoo2.png",
     thumbnail:
       "/hairtattoo2.png",
   },
   {
     title: "Haircut",
-    link: "/booking",
+    link: "/haircut3.png",
     thumbnail:
       "/haircut3.png",
   },
   {
     title: "Haircut",
-    link: "/booking",
+    link: "/haircut2.png",
     thumbnail:
       "/haircut2.png",
   },
   {
     title: "Hair Tattoo",
-    link: "/booking",
+    link: "/hairtattoo4.png",
     thumbnail:
       "/hairtattoo4.png",
   },
   {
     title: "Beard Trim",
-    link: "/booking",
+    link: "/beard1.png",
     thumbnail:
       "/beard1.png",
   },
   {
     title: "Beard Trim",
-    link: "/booking",
+    link: "/beard3.png",
     thumbnail:
       "/beard3.png",
   },
   {
     title: "Haircut",
-    link: "/booking",
+    link: "/haircut4.png",
     thumbnail:
       "/haircut4.png",
   },
   {
     title: "Beard Trim",
-    link: "/booking",
+    link: "/beard4.png",
     thumbnail:
       "/beard4.png",
   },
-
   {
     title: "Haircut",
-    link: "/booking",
+    link: "/haircut6.png",
+    thumbnail:
+      "/haircut6.png",
+  },
+  {
+    title: "Haircut",
+    link: "/haircut5.png",
     thumbnail:
       "/haircut5.png",
   },
   {
     title: "Haircut",
-    link: "/booking",
+    link: "/haircut7.png",
     thumbnail:
-      "/haircut6.png",
+      "/haircut7.png",
   },
   {
     title: "Beard Trim",
-    link: "/booking",
+    link: "/beard2.png",
     thumbnail:
       "/beard2.png",
-  },
-  {
-    title: "Haircut",
-    link: "/booking",
-    thumbnail:
-      "/haircut7.png",
   },
 ];

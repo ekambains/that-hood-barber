@@ -19,16 +19,16 @@ const Navbar = () => {
                 <Link href={`/`}>
                     <span className=''>Services</span>
                 </Link>
-                <Link href={`/`}>
-                    <span className=''>Team</span>
+                <Link href={`https://www.instagram.com/that_hood_barber?igsh=OWRrOG1obHQzNWs=`}>
+                    <span className=''>Instagram</span>
                 </Link>
-                <Link href={`/`}>
-                    <span className=''>About</span>
+                <Link href={`https://www.tiktok.com/@that_hood_barber?_t=ZM-8uHH9Sqvnpl&_r=1`}>
+                    <span className=''>TikTok</span>
                 </Link>
             </div>
 
             <div>
-                <Link href={`/booking`}>
+                <Link href={`https://calendly.com/ks1488202/30min`}>
                     <button className='bg-black text-white dark:bg-white dark:text-black rounded-lg text-center h-auto min-h-10 w-auto min-w-24 cursor-pointer'>Book Now</button>
                 </Link>
             </div>
