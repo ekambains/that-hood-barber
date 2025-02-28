@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "That Hood Barber",
   description: "Professional Barber Shop located in Red Deer, Alberta",
+  icons: {
+    icon: '/Logo.png'
+  }
 };
 
 export default function RootLayout({
