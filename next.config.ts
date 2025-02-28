@@ -8,7 +8,8 @@ const nextConfig: NextConfig = {
         hostname: "*",
       }
     ]
-  }
+  },
+  devIndicators: false,
 };
 
 export default nextConfig;
